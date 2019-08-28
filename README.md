@@ -4,3 +4,4 @@
 
 #### ML Algorithms Implementations
 - [Linear Regression](AlgorithmsFS/Regression.ipynb)
+- [K-Nearest-Neighbor](AlgorithmsFS/K-Nearest-Neighbor.ipynb)
