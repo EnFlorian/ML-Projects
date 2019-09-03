@@ -7,6 +7,7 @@
 - [Logistic Regression](AlgorithmsFS/Principal-Component-Analysis.ipynb)
 - [K-Nearest-Neighbor](AlgorithmsFS/K-Nearest-Neighbor.ipynb)
 - [Principal Components Analysis](AlgorithmsFS/Principal-Component-Analysis.ipynb)
+- [Perceptron]()
 
 
 #### Deeplearning
