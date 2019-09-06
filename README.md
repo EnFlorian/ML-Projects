@@ -12,3 +12,4 @@
 
 #### Deeplearning
 - [MLP]()
+- [Activation Functions]()
