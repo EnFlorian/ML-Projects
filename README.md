@@ -12,4 +12,4 @@
 
 #### Deeplearning
 - [MLP]()
-- [Activation Functions]()
+- [Activation Functions](AlgorithmsFS/Activation-Functions.ipynb)
