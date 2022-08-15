@@ -8,8 +8,3 @@
 - [K-Nearest-Neighbor](AlgorithmsFS/K-Nearest-Neighbor.ipynb)
 - [Principal Components Analysis](AlgorithmsFS/Principal-Component-Analysis.ipynb)
 - [Perceptron](AlgorithmsFS/Perceptron.ipynb)
-
-
-#### Deeplearning
-- [MLP]()
-- [Activation Functions](AlgorithmsFS/Activation-Functions.ipynb)
